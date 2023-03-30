@@ -1,0 +1,15 @@
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\Orders.Services.csproj.AssemblyReference.cache
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\Orders.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\Orders.Services.AssemblyInfoInputs.cache
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\Orders.Services.AssemblyInfo.cs
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\Orders.Services.csproj.CoreCompileInputs.cache
+C:\VenuKotte\Orders.Services\bin\Debug\net7.0\Orders.Services.deps.json
+C:\VenuKotte\Orders.Services\bin\Debug\net7.0\Orders.Services.dll
+C:\VenuKotte\Orders.Services\bin\Debug\net7.0\Orders.Services.pdb
+C:\VenuKotte\Orders.Services\bin\Debug\net7.0\Orders.Database.dll
+C:\VenuKotte\Orders.Services\bin\Debug\net7.0\Orders.Database.pdb
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\Orders.Services.csproj.CopyComplete
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\Orders.Services.dll
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\refint\Orders.Services.dll
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\Orders.Services.pdb
+C:\VenuKotte\Orders.Services\obj\Debug\net7.0\ref\Orders.Services.dll

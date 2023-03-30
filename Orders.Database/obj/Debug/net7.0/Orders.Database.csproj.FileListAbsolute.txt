@@ -1,0 +1,12 @@
+C:\VenuKotte\Orders.Database\bin\Debug\net7.0\Orders.Database.deps.json
+C:\VenuKotte\Orders.Database\bin\Debug\net7.0\Orders.Database.dll
+C:\VenuKotte\Orders.Database\bin\Debug\net7.0\Orders.Database.pdb
+C:\VenuKotte\Orders.Database\obj\Debug\net7.0\Orders.Database.csproj.AssemblyReference.cache
+C:\VenuKotte\Orders.Database\obj\Debug\net7.0\Orders.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\VenuKotte\Orders.Database\obj\Debug\net7.0\Orders.Database.AssemblyInfoInputs.cache
+C:\VenuKotte\Orders.Database\obj\Debug\net7.0\Orders.Database.AssemblyInfo.cs
+C:\VenuKotte\Orders.Database\obj\Debug\net7.0\Orders.Database.csproj.CoreCompileInputs.cache
+C:\VenuKotte\Orders.Database\obj\Debug\net7.0\Orders.Database.dll
+C:\VenuKotte\Orders.Database\obj\Debug\net7.0\refint\Orders.Database.dll
+C:\VenuKotte\Orders.Database\obj\Debug\net7.0\Orders.Database.pdb
+C:\VenuKotte\Orders.Database\obj\Debug\net7.0\ref\Orders.Database.dll
